@@ -1,4 +1,7 @@
 def all_phrase
+  phrase
+  status
+  link_phrase
 
 
 def mario
