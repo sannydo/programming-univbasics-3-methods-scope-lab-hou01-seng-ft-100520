@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrase
-  puts phrase
-  puts status
-  puts link_phrase
+  puts phrase = "It's-a me, Mario!"
+  puts status = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts link_phrase = "It's Dangerous To Go Alone! Take This."
 end
