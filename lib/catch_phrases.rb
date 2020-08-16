@@ -1,3 +1,6 @@
+def all_phrase
+
+
 def mario
   phrase = "It's-a me, Mario!" 
   puts phrase
@@ -9,6 +12,6 @@ def toadstool
 end
 
 def link
-  all_phrase = "It's Dangerous To Go Alone! Take This."
-  puts all_phrase
+  link_phrase = "It's Dangerous To Go Alone! Take This."
+  puts link_phrase
 end
