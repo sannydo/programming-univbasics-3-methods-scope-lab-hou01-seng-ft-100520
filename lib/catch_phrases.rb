@@ -1,9 +1,3 @@
-def all_phrase
-  phrase
-  status
-  link_phrase
-
-
 def mario
   phrase = "It's-a me, Mario!" 
   puts phrase
@@ -18,3 +12,4 @@ def link
   link_phrase = "It's Dangerous To Go Alone! Take This."
   puts link_phrase
 end
+
